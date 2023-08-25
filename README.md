@@ -1,7 +1,7 @@
-# MARK_v5
-Membrane Adsorption and Recruitment Kinetics (MARK) v5
+# MARK
+Membrane Adsorption and Recruitment Kinetics (MARK)
 
-MARK v5, most recently developed in Matlab R2023a, tested on Windows 11, Mac OS, and Ubuntu 22.04. 
+MARK, most recently developed in Matlab R2023a, tested on Windows 11, Mac OS, and Ubuntu 22.04. 
 
 Test file, "KRAS_test.txt", includes TIRF data taken of 30, 50, 75, and 100 nM KRAS-eGFP incubated on a SLB. First column is time, in minutes, and following columns are TIRF intensities for 30, 50, 75, and 100 nM KRAS-eGFP.
 
